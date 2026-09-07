@@ -298,10 +298,11 @@ The following improvements can be incorporated into the redesigned interface:
 ```
 <img width="1664" height="945" alt="image" src="https://github.com/user-attachments/assets/ddede255-9889-40fc-8042-068b1d3231fc" />
 ```
+```
 Observation:
 The evaluation shows that both Google Pay and PhonePe provide usable interfaces for digital payment tasks. Google Pay provides a relatively focused and minimal interface, whereas PhonePe provides a broader range of services and features. The comparison highlights the importance of visual hierarchy, consistency, recognition, error prevention, and simplicity in mobile payment applications.
 
 The identified usability issues were used to propose an improved interface with better grouping, clearer navigation, reduced cognitive load, and stronger feedback.
 ```
-# Result:
+## Result:
 Google Pay and PhonePe were successfully evaluated and compared using Nielsen's 10 usability heuristics. Their UI, UX, navigation, interaction, and usability characteristics were analyzed. Several usability improvement opportunities were identified, and an improved interface was designed using Figma. A/B testing was planned to compare the existing and improved designs and evaluate their effect on user behavior.
