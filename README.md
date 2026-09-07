@@ -303,5 +303,5 @@ The evaluation shows that both Google Pay and PhonePe provide usable interfaces 
 
 The identified usability issues were used to propose an improved interface with better grouping, clearer navigation, reduced cognitive load, and stronger feedback.
 ```
-## Result:
+# Result:
 Google Pay and PhonePe were successfully evaluated and compared using Nielsen's 10 usability heuristics. Their UI, UX, navigation, interaction, and usability characteristics were analyzed. Several usability improvement opportunities were identified, and an improved interface was designed using Figma. A/B testing was planned to compare the existing and improved designs and evaluate their effect on user behavior.
