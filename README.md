@@ -297,7 +297,7 @@ The following improvements can be incorporated into the redesigned interface:
 8. Use progressive disclosure for less frequently used features.
 ```
 <img width="1664" height="945" alt="image" src="https://github.com/user-attachments/assets/ddede255-9889-40fc-8042-068b1d3231fc" />
-```
+
 ```
 Observation:
 The evaluation shows that both Google Pay and PhonePe provide usable interfaces for digital payment tasks. Google Pay provides a relatively focused and minimal interface, whereas PhonePe provides a broader range of services and features. The comparison highlights the importance of visual hierarchy, consistency, recognition, error prevention, and simplicity in mobile payment applications.
